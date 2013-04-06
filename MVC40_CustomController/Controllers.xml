@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Controllers>
+  <ControllerName>
+    <FullPath>MVC40_CustomController.Controllers.EmployeeInfoController,MVC40_CustomController</FullPath>
+    <Class>EmployeeInfo</Class>
+  </ControllerName>
+  <ControllerName>
+    <FullPath>MVC40_CustomController.Controllers.HomeController,MVC40_CustomController</FullPath>
+    <Class>Home</Class>
+  </ControllerName>
+</Controllers>
